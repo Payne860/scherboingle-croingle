@@ -1,0 +1,18 @@
+body {
+    background: red;
+  }
+  p {
+    color: white;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: xx-large;
+    color: white
+  }
+  h5 {
+    color: red;
+    font-size: xx-small;
+  }
+  h2 {
+    color: white;
+  }

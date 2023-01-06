@@ -1,0 +1,10 @@
+body {
+    background: green;
+  }
+  p {
+    color: purple;
+  }
+  h1 {
+    font-weight: bolder;
+    color: purple
+  }
