@@ -1,4 +1,4 @@
-import time
+
 def cntr()
     print("welcome to the scherboingle croingle cheat center.")
     print("would you like to see death endings or other endings?")
